@@ -4,6 +4,12 @@ function Invoke-Shellcode
 .SYNOPSIS
 
 Inject shellcode into the process ID of your choosing or within the context of the running PowerShell process.
+
+PowerSploit Function: Invoke-Shellcode
+Author: Matthew Graeber (@mattifestation)
+License: BSD 3-Clause
+Required Dependencies: None
+Optional Dependencies: None
  
 .DESCRIPTION
 
